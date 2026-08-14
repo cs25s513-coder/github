@@ -1,5 +1,5 @@
 {
-    name: "Upendra",
+    name: "Upendra-merge conflict added into this file",
     role: "Developer",
     interests: ["AI", "HCI", "Software Engineering"]
 }
