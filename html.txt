@@ -1,0 +1,5 @@
+{
+    name: "Upendra",
+    role: "Developer",
+    interests: ["AI", "HCI", "Software Engineering"]
+}
