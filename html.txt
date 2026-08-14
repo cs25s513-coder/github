@@ -1,5 +1,5 @@
 {
-    name: "This is from master branch",
+    name: "This is from master branch and this will be added now.",
     role: "Developer",
     interests: ["AI", "HCI", "Software Engineering"]
 }
