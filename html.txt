@@ -3,3 +3,8 @@
     role: "Developer",
     interests: ["AI", "HCI", "Software Engineering"]
 }
+{
+    name: "Upendra2",
+    role: "Developer",
+    interests: ["AI", "HCI", "Software Engineering"]
+}
