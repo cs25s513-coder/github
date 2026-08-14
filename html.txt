@@ -1,5 +1,5 @@
 {
-    name: "This is from master branch and this will be - deleted from cs25s513",
+    name: "This is from master branch and this will be - deleted from CS25S513",
     role: "Developer",
     interests: ["AI", "HCI", "Software Engineering"]
 }
