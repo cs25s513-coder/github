@@ -1,5 +1,5 @@
 {
-    name: "Upendra-merge conflict added into this file",
+    name: "This is from master branch",
     role: "Developer",
     interests: ["AI", "HCI", "Software Engineering"]
 }
